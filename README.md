@@ -1,1 +1,1 @@
-# -4-Bit-Synchronous-Counter-
+# 4-Bit-Synchronous-Counter
